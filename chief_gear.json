@@ -1,0 +1,236 @@
+{
+    "green_0": {
+        "name": "Green (0 Star)",
+        "cost": {
+            "iron": 1500,
+            "polishing": 15,
+            "design": 0,
+            "amber": 0
+        }
+    },
+    "green_1": {
+        "name": "Green (1 Star)",
+        "cost": {
+            "iron": 3800,
+            "polishing": 40,
+            "design": 0,
+            "amber": 0
+        }
+    },
+    "blue_0": {
+        "name": "Blue (0 Star)",
+        "cost": {
+            "iron": 7000,
+            "polishing": 70,
+            "design": 0,
+            "amber": 0
+        }
+    },
+    "blue_1": {
+        "name": "Blue (1 Star)",
+        "cost": {
+            "iron": 9700,
+            "polishing": 95,
+            "design": 0,
+            "amber": 0
+        }
+    },
+    "blue_2": {
+        "name": "Blue (2 Star)",
+        "cost": {
+            "iron": 0,
+            "polishing": 0,
+            "design": 45,
+            "amber": 0
+        }
+    },
+    "blue_3": {
+        "name": "Blue (3 Star)",
+        "cost": {
+            "iron": 0,
+            "polishing": 0,
+            "design": 50,
+            "amber": 0
+        }
+    },
+    "purple_0": {
+        "name": "Purple (0 Star)",
+        "cost": {
+            "iron": 0,
+            "polishing": 0,
+            "design": 60,
+            "amber": 0
+        }
+    },
+    "purple_1": {
+        "name": "Purple (1 Star)",
+        "cost": {
+            "iron": 0,
+            "polishing": 0,
+            "design": 70,
+            "amber": 0
+        }
+    },
+    "purple_2": {
+        "name": "Purple (2 Star)",
+        "cost": {
+            "iron": 6500,
+            "polishing": 65,
+            "design": 50,
+            "amber": 0
+        }
+    },
+    "purple_3": {
+        "name": "Purple (3 Star)",
+        "cost": {
+            "iron": 8000,
+            "polishing": 80,
+            "design": 50,
+            "amber": 0
+        }
+    },
+    "purple_t1_0": {
+        "name": "Purple T1 (0 Star)",
+        "cost": {
+            "iron": 10000,
+            "polishing": 95,
+            "design": 60,
+            "amber": 0
+        }
+    },
+    "purple_t1_1": {
+        "name": "Purple T1 (1 Star)",
+        "cost": {
+            "iron": 11000,
+            "polishing": 110,
+            "design": 70,
+            "amber": 0
+        }
+    },
+    "purple_t1_2": {
+        "name": "Purple T1 (2 Star)",
+        "cost": {
+            "iron": 13000,
+            "polishing": 130,
+            "design": 85,
+            "amber": 0
+        }
+    },
+    "purple_t1_3": {
+        "name": "Purple T1 (3 Star)",
+        "cost": {
+            "iron": 15000,
+            "polishing": 160,
+            "design": 100,
+            "amber": 0
+        }
+    },
+    "gold_0": {
+        "name": "Gold (0 Star)",
+        "cost": {
+            "iron": 22000,
+            "polishing": 220,
+            "design": 40,
+            "amber": 0
+        }
+    },
+    "gold_1": {
+        "name": "Gold (1 Star)",
+        "cost": {
+            "iron": 23000,
+            "polishing": 230,
+            "design": 40,
+            "amber": 0
+        }
+    },
+    "gold_2": {
+        "name": "Gold (2 Star)",
+        "cost": {
+            "iron": 25000,
+            "polishing": 250,
+            "design": 45,
+            "amber": 0
+        }
+    },
+    "gold_3": {
+        "name": "Gold (3 Star)",
+        "cost": {
+            "iron": 26000,
+            "polishing": 260,
+            "design": 45,
+            "amber": 0
+        }
+    },
+    "gold_t1_0": {
+        "name": "Gold T1 (0 Star)",
+        "cost": {
+            "iron": 28000,
+            "polishing": 280,
+            "design": 45,
+            "amber": 0
+        }
+    },
+    "gold_t1_1": {
+        "name": "Gold T1 (1 Star)",
+        "cost": {
+            "iron": 28000,
+            "polishing": 280,
+            "design": 55,
+            "amber": 0
+        }
+    },
+    "gold_t1_2": {
+        "name": "Gold T1 (2 Star)",
+        "cost": {
+            "iron": 32000,
+            "polishing": 320,
+            "design": 55,
+            "amber": 0
+        }
+    },
+    "gold_t1_3": {
+        "name": "Gold T1 (3 Star)",
+        "cost": {
+            "iron": 35000,
+            "polishing": 340,
+            "design": 55,
+            "amber": 0
+        }
+    },
+    "gold_t2_0": {
+        "name": "Gold T2 (0 Star)",
+        "cost": {
+            "iron": 38000,
+            "polishing": 360,
+            "design": 55,
+            "amber": 0
+        }
+    },
+    "gold_t2_1": {
+        "name": "Gold T2 (1 Star)",
+        "cost": {
+            "iron": 43000,
+            "polishing": 430,
+            "design": 75,
+            "amber": 0
+        }
+    },
+    "gold_t2_2": {
+        "name": "Gold T2 (2 Star)",
+        "cost": {
+            "iron": 45000,
+            "polishing": 460,
+            "design": 80,
+            "amber": 0
+        }
+    },
+    "gold_t2_3": {
+        "name": "Gold T2 (3 Star)",
+        "cost": {
+            "iron": 48000,
+            "polishing": 500,
+            "design": 85,
+            "amber": 0
+        }
+    }
+}
