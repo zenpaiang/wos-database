@@ -1,6 +1,6 @@
 # whiteout survival database
 
-all the content in this repo has been gathered by me for ease of access of everyone
+all the content in this repo so far has been obtained by me through in game screenshots or manual data entry
 
 current contents:
 1. [chief gear images](https://github.com/zenpaiang/wos-database/tree/master/chief_gear) (only has up to mythic t2 3-star)
