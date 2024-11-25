@@ -1,6 +1,6 @@
 {
-    "green_0": {
-        "name": "Green (0 Star)",
+    "uncommon_0": {
+        "name": "Uncommon (0 Star)",
         "cost": {
             "iron": 1500,
             "polishing": 15,
@@ -8,8 +8,8 @@
             "amber": 0
         }
     },
-    "green_1": {
-        "name": "Green (1 Star)",
+    "uncommon_1": {
+        "name": "Uncommon (1 Star)",
         "cost": {
             "iron": 3800,
             "polishing": 40,
@@ -17,8 +17,8 @@
             "amber": 0
         }
     },
-    "blue_0": {
-        "name": "Blue (0 Star)",
+    "rare_0": {
+        "name": "Rare (0 Star)",
         "cost": {
             "iron": 7000,
             "polishing": 70,
@@ -26,8 +26,8 @@
             "amber": 0
         }
     },
-    "blue_1": {
-        "name": "Blue (1 Star)",
+    "rare_1": {
+        "name": "Rare (1 Star)",
         "cost": {
             "iron": 9700,
             "polishing": 95,
@@ -35,8 +35,8 @@
             "amber": 0
         }
     },
-    "blue_2": {
-        "name": "Blue (2 Star)",
+    "rare_2": {
+        "name": "Rare (2 Star)",
         "cost": {
             "iron": 0,
             "polishing": 0,
@@ -44,8 +44,8 @@
             "amber": 0
         }
     },
-    "blue_3": {
-        "name": "Blue (3 Star)",
+    "rare_3": {
+        "name": "Rare (3 Star)",
         "cost": {
             "iron": 0,
             "polishing": 0,
@@ -53,8 +53,8 @@
             "amber": 0
         }
     },
-    "purple_0": {
-        "name": "Purple (0 Star)",
+    "epic_0": {
+        "name": "Epic (0 Star)",
         "cost": {
             "iron": 0,
             "polishing": 0,
@@ -62,8 +62,8 @@
             "amber": 0
         }
     },
-    "purple_1": {
-        "name": "Purple (1 Star)",
+    "epic_1": {
+        "name": "Epic (1 Star)",
         "cost": {
             "iron": 0,
             "polishing": 0,
@@ -71,8 +71,8 @@
             "amber": 0
         }
     },
-    "purple_2": {
-        "name": "Purple (2 Star)",
+    "epic_2": {
+        "name": "Epic (2 Star)",
         "cost": {
             "iron": 6500,
             "polishing": 65,
@@ -80,8 +80,8 @@
             "amber": 0
         }
     },
-    "purple_3": {
-        "name": "Purple (3 Star)",
+    "epic_3": {
+        "name": "Epic (3 Star)",
         "cost": {
             "iron": 8000,
             "polishing": 80,
@@ -89,8 +89,8 @@
             "amber": 0
         }
     },
-    "purple_t1_0": {
-        "name": "Purple T1 (0 Star)",
+    "epic_t1_0": {
+        "name": "Epic T1 (0 Star)",
         "cost": {
             "iron": 10000,
             "polishing": 95,
@@ -98,8 +98,8 @@
             "amber": 0
         }
     },
-    "purple_t1_1": {
-        "name": "Purple T1 (1 Star)",
+    "epic_t1_1": {
+        "name": "Epic T1 (1 Star)",
         "cost": {
             "iron": 11000,
             "polishing": 110,
@@ -107,8 +107,8 @@
             "amber": 0
         }
     },
-    "purple_t1_2": {
-        "name": "Purple T1 (2 Star)",
+    "epic_t1_2": {
+        "name": "Epic T1 (2 Star)",
         "cost": {
             "iron": 13000,
             "polishing": 130,
@@ -116,8 +116,8 @@
             "amber": 0
         }
     },
-    "purple_t1_3": {
-        "name": "Purple T1 (3 Star)",
+    "epic_t1_3": {
+        "name": "Epic T1 (3 Star)",
         "cost": {
             "iron": 15000,
             "polishing": 160,
@@ -125,8 +125,8 @@
             "amber": 0
         }
     },
-    "gold_0": {
-        "name": "Gold (0 Star)",
+    "mythic_0": {
+        "name": "Mythic (0 Star)",
         "cost": {
             "iron": 22000,
             "polishing": 220,
@@ -134,8 +134,8 @@
             "amber": 0
         }
     },
-    "gold_1": {
-        "name": "Gold (1 Star)",
+    "mythic_1": {
+        "name": "Mythic (1 Star)",
         "cost": {
             "iron": 23000,
             "polishing": 230,
@@ -143,8 +143,8 @@
             "amber": 0
         }
     },
-    "gold_2": {
-        "name": "Gold (2 Star)",
+    "mythic_2": {
+        "name": "Mythic (2 Star)",
         "cost": {
             "iron": 25000,
             "polishing": 250,
@@ -152,8 +152,8 @@
             "amber": 0
         }
     },
-    "gold_3": {
-        "name": "Gold (3 Star)",
+    "mythic_3": {
+        "name": "Mythic (3 Star)",
         "cost": {
             "iron": 26000,
             "polishing": 260,
@@ -161,8 +161,8 @@
             "amber": 0
         }
     },
-    "gold_t1_0": {
-        "name": "Gold T1 (0 Star)",
+    "mythic_t1_0": {
+        "name": "Mythic T1 (0 Star)",
         "cost": {
             "iron": 28000,
             "polishing": 280,
@@ -170,8 +170,8 @@
             "amber": 0
         }
     },
-    "gold_t1_1": {
-        "name": "Gold T1 (1 Star)",
+    "mythic_t1_1": {
+        "name": "Mythic T1 (1 Star)",
         "cost": {
             "iron": 28000,
             "polishing": 280,
@@ -179,8 +179,8 @@
             "amber": 0
         }
     },
-    "gold_t1_2": {
-        "name": "Gold T1 (2 Star)",
+    "mythic_t1_2": {
+        "name": "Mythic T1 (2 Star)",
         "cost": {
             "iron": 32000,
             "polishing": 320,
@@ -188,8 +188,8 @@
             "amber": 0
         }
     },
-    "gold_t1_3": {
-        "name": "Gold T1 (3 Star)",
+    "mythic_t1_3": {
+        "name": "Mythic T1 (3 Star)",
         "cost": {
             "iron": 35000,
             "polishing": 340,
@@ -197,8 +197,8 @@
             "amber": 0
         }
     },
-    "gold_t2_0": {
-        "name": "Gold T2 (0 Star)",
+    "mythic_t2_0": {
+        "name": "Mythic T2 (0 Star)",
         "cost": {
             "iron": 38000,
             "polishing": 360,
@@ -206,8 +206,8 @@
             "amber": 0
         }
     },
-    "gold_t2_1": {
-        "name": "Gold T2 (1 Star)",
+    "mythic_t2_1": {
+        "name": "Mythic T2 (1 Star)",
         "cost": {
             "iron": 43000,
             "polishing": 430,
@@ -215,8 +215,8 @@
             "amber": 0
         }
     },
-    "gold_t2_2": {
-        "name": "Gold T2 (2 Star)",
+    "mythic_t2_2": {
+        "name": "Mythic T2 (2 Star)",
         "cost": {
             "iron": 45000,
             "polishing": 460,
@@ -224,8 +224,8 @@
             "amber": 0
         }
     },
-    "gold_t2_3": {
-        "name": "Gold T2 (3 Star)",
+    "mythic_t2_3": {
+        "name": "Mythic T2 (3 Star)",
         "cost": {
             "iron": 48000,
             "polishing": 500,
