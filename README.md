@@ -4,7 +4,7 @@ all the content in this repo so far has been obtained by me through in game scre
 
 current contents:
 1. [chief gear images](https://github.com/zenpaiang/wos-database/tree/master/chief_gear) (only has up to mythic t2 3-star)
-2. [chief gear costs](https://github.com/zenpaiang/wos-database/blob/master/chief_gear.json)
+2. [chief gear costs](https://github.com/zenpaiang/wos-database/blob/master/chief_gear.json) (only has up to mythic t2 3-star)
 
 # obtaining of chief gear images
 
