@@ -2,234 +2,234 @@
     "uncommon_0": {
         "name": "Uncommon (0 Star)",
         "cost": {
-            "iron": 1500,
-            "polishing": 15,
-            "design": 0,
+            "hardened_alloy": 1500,
+            "polishing_solution": 15,
+            "design_plans": 0,
             "amber": 0
         }
     },
     "uncommon_1": {
         "name": "Uncommon (1 Star)",
         "cost": {
-            "iron": 3800,
-            "polishing": 40,
-            "design": 0,
+            "hardened_alloy": 3800,
+            "polishing_solution": 40,
+            "design_plans": 0,
             "amber": 0
         }
     },
     "rare_0": {
         "name": "Rare (0 Star)",
         "cost": {
-            "iron": 7000,
-            "polishing": 70,
-            "design": 0,
+            "hardened_alloy": 7000,
+            "polishing_solution": 70,
+            "design_plans": 0,
             "amber": 0
         }
     },
     "rare_1": {
         "name": "Rare (1 Star)",
         "cost": {
-            "iron": 9700,
-            "polishing": 95,
-            "design": 0,
+            "hardened_alloy": 9700,
+            "polishing_solution": 95,
+            "design_plans": 0,
             "amber": 0
         }
     },
     "rare_2": {
         "name": "Rare (2 Star)",
         "cost": {
-            "iron": 0,
-            "polishing": 0,
-            "design": 45,
+            "hardened_alloy": 0,
+            "polishing_solution": 0,
+            "design_plans": 45,
             "amber": 0
         }
     },
     "rare_3": {
         "name": "Rare (3 Star)",
         "cost": {
-            "iron": 0,
-            "polishing": 0,
-            "design": 50,
+            "hardened_alloy": 0,
+            "polishing_solution": 0,
+            "design_plans": 50,
             "amber": 0
         }
     },
     "epic_0": {
         "name": "Epic (0 Star)",
         "cost": {
-            "iron": 0,
-            "polishing": 0,
-            "design": 60,
+            "hardened_alloy": 0,
+            "polishing_solution": 0,
+            "design_plans": 60,
             "amber": 0
         }
     },
     "epic_1": {
         "name": "Epic (1 Star)",
         "cost": {
-            "iron": 0,
-            "polishing": 0,
-            "design": 70,
+            "hardened_alloy": 0,
+            "polishing_solution": 0,
+            "design_plans": 70,
             "amber": 0
         }
     },
     "epic_2": {
         "name": "Epic (2 Star)",
         "cost": {
-            "iron": 6500,
-            "polishing": 65,
-            "design": 50,
+            "hardened_alloy": 6500,
+            "polishing_solution": 65,
+            "design_plans": 50,
             "amber": 0
         }
     },
     "epic_3": {
         "name": "Epic (3 Star)",
         "cost": {
-            "iron": 8000,
-            "polishing": 80,
-            "design": 50,
+            "hardened_alloy": 8000,
+            "polishing_solution": 80,
+            "design_plans": 50,
             "amber": 0
         }
     },
     "epic_t1_0": {
         "name": "Epic T1 (0 Star)",
         "cost": {
-            "iron": 10000,
-            "polishing": 95,
-            "design": 60,
+            "hardened_alloy": 10000,
+            "polishing_solution": 95,
+            "design_plans": 60,
             "amber": 0
         }
     },
     "epic_t1_1": {
         "name": "Epic T1 (1 Star)",
         "cost": {
-            "iron": 11000,
-            "polishing": 110,
-            "design": 70,
+            "hardened_alloy": 11000,
+            "polishing_solution": 110,
+            "design_plans": 70,
             "amber": 0
         }
     },
     "epic_t1_2": {
         "name": "Epic T1 (2 Star)",
         "cost": {
-            "iron": 13000,
-            "polishing": 130,
-            "design": 85,
+            "hardened_alloy": 13000,
+            "polishing_solution": 130,
+            "design_plans": 85,
             "amber": 0
         }
     },
     "epic_t1_3": {
         "name": "Epic T1 (3 Star)",
         "cost": {
-            "iron": 15000,
-            "polishing": 160,
-            "design": 100,
+            "hardened_alloy": 15000,
+            "polishing_solution": 160,
+            "design_plans": 100,
             "amber": 0
         }
     },
     "mythic_0": {
         "name": "Mythic (0 Star)",
         "cost": {
-            "iron": 22000,
-            "polishing": 220,
-            "design": 40,
+            "hardened_alloy": 22000,
+            "polishing_solution": 220,
+            "design_plans": 40,
             "amber": 0
         }
     },
     "mythic_1": {
         "name": "Mythic (1 Star)",
         "cost": {
-            "iron": 23000,
-            "polishing": 230,
-            "design": 40,
+            "hardened_alloy": 23000,
+            "polishing_solution": 230,
+            "design_plans": 40,
             "amber": 0
         }
     },
     "mythic_2": {
         "name": "Mythic (2 Star)",
         "cost": {
-            "iron": 25000,
-            "polishing": 250,
-            "design": 45,
+            "hardened_alloy": 25000,
+            "polishing_solution": 250,
+            "design_plans": 45,
             "amber": 0
         }
     },
     "mythic_3": {
         "name": "Mythic (3 Star)",
         "cost": {
-            "iron": 26000,
-            "polishing": 260,
-            "design": 45,
+            "hardened_alloy": 26000,
+            "polishing_solution": 260,
+            "design_plans": 45,
             "amber": 0
         }
     },
     "mythic_t1_0": {
         "name": "Mythic T1 (0 Star)",
         "cost": {
-            "iron": 28000,
-            "polishing": 280,
-            "design": 45,
+            "hardened_alloy": 28000,
+            "polishing_solution": 280,
+            "design_plans": 45,
             "amber": 0
         }
     },
     "mythic_t1_1": {
         "name": "Mythic T1 (1 Star)",
         "cost": {
-            "iron": 28000,
-            "polishing": 280,
-            "design": 55,
+            "hardened_alloy": 28000,
+            "polishing_solution": 280,
+            "design_plans": 55,
             "amber": 0
         }
     },
     "mythic_t1_2": {
         "name": "Mythic T1 (2 Star)",
         "cost": {
-            "iron": 32000,
-            "polishing": 320,
-            "design": 55,
+            "hardened_alloy": 32000,
+            "polishing_solution": 320,
+            "design_plans": 55,
             "amber": 0
         }
     },
     "mythic_t1_3": {
         "name": "Mythic T1 (3 Star)",
         "cost": {
-            "iron": 35000,
-            "polishing": 340,
-            "design": 55,
+            "hardened_alloy": 35000,
+            "polishing_solution": 340,
+            "design_plans": 55,
             "amber": 0
         }
     },
     "mythic_t2_0": {
         "name": "Mythic T2 (0 Star)",
         "cost": {
-            "iron": 38000,
-            "polishing": 360,
-            "design": 55,
+            "hardened_alloy": 38000,
+            "polishing_solution": 360,
+            "design_plans": 55,
             "amber": 0
         }
     },
     "mythic_t2_1": {
         "name": "Mythic T2 (1 Star)",
         "cost": {
-            "iron": 43000,
-            "polishing": 430,
-            "design": 75,
+            "hardened_alloy": 43000,
+            "polishing_solution": 430,
+            "design_plans": 75,
             "amber": 0
         }
     },
     "mythic_t2_2": {
         "name": "Mythic T2 (2 Star)",
         "cost": {
-            "iron": 45000,
-            "polishing": 460,
-            "design": 80,
+            "hardened_alloy": 45000,
+            "polishing_solution": 460,
+            "design_plans": 80,
             "amber": 0
         }
     },
     "mythic_t2_3": {
         "name": "Mythic T2 (3 Star)",
         "cost": {
-            "iron": 48000,
-            "polishing": 500,
-            "design": 85,
+            "hardened_alloy": 48000,
+            "polishing_solution": 500,
+            "design_plans": 85,
             "amber": 0
         }
     }
