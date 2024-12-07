@@ -17,6 +17,8 @@ chief gear images are organized by rarity into folders with an `identifier`. for
 
 in `chief_gear.json`, each key is an `identifier` for a rarity of chief gear. the data stored with that key contains the proper name of the rarity, and how much `hardened_alloy`, `polishing_solution`, `design_plans`, and `amber` (only for >legendary gear, which is not included in this database for now) is needed to upgrade to that rarity.
 
+it also contains the power and stat bonuses for each rarity of chief gear.
+
 # chief charm images and costs
 
 chief charm images are organized by their type, e.g. `keenness` (lancer stat charm), `protection` (infantry stat charm), or `vision` (marksman stat charm)
