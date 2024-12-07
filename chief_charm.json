@@ -1,0 +1,90 @@
+{
+    "lvl1": {
+        "cost": {
+            "design": 5,
+            "guide": 5
+        },
+        "stats": 9,
+        "power": 205700
+    },
+    "lvl2": {
+        "cost": {
+            "design": 15,
+            "guide": 40
+        },
+        "stats": 12,
+        "power": 288000
+    },
+    "lvl3": {
+        "cost": {
+            "design": 40,
+            "guide": 60
+        },
+        "stats": 16,
+        "power": 370000
+    },
+    "lvl4": {
+        "cost": {
+            "design": 100,
+            "guide": 80
+        },
+        "stats": 19,
+        "power": 452000
+    },
+    "lvl5": {
+        "cost": {
+            "design": 200,
+            "guide": 100
+        },
+        "stats": 25,
+        "power": 576000
+    },
+    "lvl6": {
+        "cost": {
+            "design": 300,
+            "guide": 120
+        },
+        "stats": 30,
+        "power": 700000
+    },
+    "lvl7": {
+        "cost": {
+            "design": 400,
+            "guide": 140
+        },
+        "stats": 35,
+        "power": 824000
+    },
+    "lvl8": {
+        "cost": {
+            "design": 400,
+            "guide": 200
+        },
+        "stats": 40,
+        "power": 948000
+    },
+    "lvl9": {
+        "cost": {
+            "design": 400,
+            "guide": 300
+        },
+        "stats": 45,
+        "power": 1072000
+    },
+    "lvl10": {
+        "cost": {
+            "design": 420,
+            "guide": 420
+        },
+        "stats": 50,
+        "power": 1196000
+    },
+    "lvl11": {
+        "cost": {
+            "design": 420,
+            "guide": 560
+        },
+        "stats": 55,
+        "power": 1320000
+    }
+}
