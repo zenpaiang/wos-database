@@ -8,6 +8,7 @@ current contents:
 3. [chief charm images](https://github.com/zenpaiang/wos-database/tree/master/chief_charm)
 4. [chief charm costs](https://github.com/zenpaiang/wos-database/blob/master/chief_charm.json)
 5. [fire crystal amounts](https://github.com/zenpaiang/wos-database/blob/master/fire_crystals.json) (only has up to FC5)
+6. [fire crystal images](https://github.com/zenpaiang/wos-database/tree/master/fire_crystals) (up to FC5)
 
 # chief gear images and costs
 
