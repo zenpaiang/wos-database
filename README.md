@@ -1,3 +1,5 @@
+check out my [other project](https://github.com/zenpaiang/wos-bot)! a discord utility bot which redeems giftcodes for all your members
+
 # whiteout survival database
 
 all the content in this repo so far has been obtained by me through in game screenshots or manual data entry
