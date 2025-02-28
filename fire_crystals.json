@@ -176,7 +176,7 @@
         },
         "command_center": {
             "fc": 180,
-            "rfc": 12
+            "rfc": 13
         },
         "embassy": {
             "fc": 225,
@@ -184,7 +184,7 @@
         },
         "infirmary": {
             "fc": 180,
-            "rfc": 12
+            "rfc": 13
         },
         "war_academy": {
             "fc": 405,
@@ -210,7 +210,7 @@
         },
         "command_center": {
             "fc": 216,
-            "rfc": 18
+            "rfc": 19
         },
         "embassy": {
             "fc": 270,
@@ -218,7 +218,7 @@
         },
         "infirmary": {
             "fc": 216,
-            "rfc": 18
+            "rfc": 19
         },
         "war_academy": {
             "fc": 486,
@@ -248,7 +248,7 @@
         },
         "embassy": {
             "fc": 270,
-            "rfc": 31
+            "rfc": 30
         },
         "infirmary": {
             "fc": 216,
@@ -256,19 +256,19 @@
         },
         "war_academy": {
             "fc": 486,
-            "rfc": 55
+            "rfc": 54
         },
         "infantry_camp": {
             "fc": 486,
-            "rfc": 55
+            "rfc": 54
         },
         "lancer_camp": {
             "fc": 486,
-            "rfc": 55
+            "rfc": 54
         },
         "marksman_camp": {
             "fc": 486,
-            "rfc": 55
+            "rfc": 54
         }
     },
     "fc9": {
@@ -282,7 +282,7 @@
         },
         "embassy": {
             "fc": 315,
-            "rfc": 42
+            "rfc": 43
         },
         "infirmary": {
             "fc": 252,
@@ -290,19 +290,19 @@
         },
         "war_academy": {
             "fc": 567,
-            "rfc": 78
+            "rfc": 79
         },
         "infantry_camp": {
             "fc": 567,
-            "rfc": 78
+            "rfc": 79
         },
         "lancer_camp": {
             "fc": 567,
-            "rfc": 78
+            "rfc": 79
         },
         "marksman_camp": {
             "fc": 567,
-            "rfc": 78
+            "rfc": 79
         }
     },
     "fc10": {
@@ -312,31 +312,31 @@
         },
         "command_center": {
             "fc": 315,
-            "rfc": 87
+            "rfc": 84
         },
         "embassy": {
-            "fc": 392,
+            "fc": 391,
             "rfc": 103
         },
         "infirmary": {
             "fc": 315,
-            "rfc": 87
+            "rfc": 84
         },
         "war_academy": {
             "fc": 706,
-            "rfc": 186
+            "rfc": 187
         },
         "infantry_camp": {
             "fc": 706,
-            "rfc": 186
+            "rfc": 187
         },
         "lancer_camp": {
             "fc": 706,
-            "rfc": 186
+            "rfc": 187
         },
         "marksman_camp": {
             "fc": 706,
-            "rfc": 186
+            "rfc": 187
         }
     }
 }
