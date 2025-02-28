@@ -9,8 +9,8 @@ current contents:
 2. [chief gear costs](https://github.com/zenpaiang/wos-database/blob/master/chief_gear.json) (only has up to mythic t2 3-star)
 3. [chief charm images](https://github.com/zenpaiang/wos-database/tree/master/chief_charm)
 4. [chief charm costs](https://github.com/zenpaiang/wos-database/blob/master/chief_charm.json)
-5. [fire crystal amounts](https://github.com/zenpaiang/wos-database/blob/master/fire_crystals.json) (only has up to FC5)
-6. [fire crystal images](https://github.com/zenpaiang/wos-database/tree/master/fire_crystals) (up to FC5)
+5. [fire crystal amounts](https://github.com/zenpaiang/wos-database/blob/master/fire_crystals.json)
+6. [fire crystal images](https://github.com/zenpaiang/wos-database/tree/master/fire_crystals)
 
 # chief gear images and costs
 
